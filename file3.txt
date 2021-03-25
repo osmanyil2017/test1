@@ -5,3 +5,5 @@ denemeler devam
 olmasada olur
 jump 2
 Remote line 1
+Jump 3
+amend 1
