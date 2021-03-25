@@ -8,3 +8,4 @@ jump 2
 Remote line 1
 Jump 3
 amend 1
+anlamad?k ama olsun
