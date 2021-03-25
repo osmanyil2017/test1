@@ -10,3 +10,4 @@ Jump 3
 amend 1
 anlamad?k ama olsun
 jump 5
+jump 6
