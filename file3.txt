@@ -4,3 +4,4 @@ evet olsun
 denemeler devam
 olmasada olur
 jump 2
+Remote line 1
