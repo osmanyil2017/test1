@@ -2,6 +2,7 @@ bir?eyler
 olsun
 evet olsun
 denemeler devam
+buraya ekledim
 olmasada olur
 jump 2
 Remote line 1
